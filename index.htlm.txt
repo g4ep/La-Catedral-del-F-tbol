@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Catedral del Fútbol</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f3f3;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>La Catedral del Fútbol</h1>
+        </header>
+        <section>
+            <h2>Análisis</h2>
+            <p>Aquí encontrarás análisis profundos sobre tácticas, estrategias y rendimiento de jugadores y equipos en las ligas europeas.</p>
+        </section>
+        <section>
+            <h2>Mercado de Transferencias</h2>
+            <p>Mantente al día con las últimas noticias y rumores sobre los movimientos de jugadores en el mercado de transferencias.</p>
+        </section>
+        <section>
+            <h2>Datos de Ligas Europeas</h2>
+            <p>Explora estadísticas y datos actualizados sobre las ligas de fútbol europeas, incluyendo resultados, clasificaciones y más.</p>
+        </section>
+        <section>
+            <h2>Noticias</h2>
+            <p>Lee las noticias más recientes y relevantes del mundo del fútbol, desde lesiones de jugadores hasta cambios de entrenadores.</p>
+        </section>
+        <section>
+            <h2>Registros de Goleadores</h2>
+            <p>Consulta los registros de goleadores de las principales ligas europeas y sigue de cerca la carrera por la Bota de Oro.</p>
+        </section>
+        <section>
+            <h2>Porteros Menos Goleados</h2>
+            <p>Descubre quiénes son los porteros menos goleados en las ligas europeas y analiza su desempeño bajo el arco.</p>
+        </section>
+        <section>
+            <h2>Mejores Equipos por Rendimiento</h2>
+            <p>Conoce cuáles son los mejores equipos actuales en términos de rendimiento y resultados en las competiciones europeas.</p>
+        </section>
+        <footer>
+            <p>&copy; 2024 La Catedral del Fútbol. Todos los derechos reservados.</p>
+        </footer>
+    </div>
+</body>
+</html>
